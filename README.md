@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">hi, i'm <a href="https://dhkun.github.io">DoHoKun</a>!</h1>
+
+<h3 align="center">welcome to my GitHub profile qwq</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHKun)
 
