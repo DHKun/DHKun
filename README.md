@@ -2,14 +2,15 @@
 
 <h3 align="center">Welcome to my GitHub profile qwq</h3>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DHKun" alt="DHKun's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="DHKun's Top Langs" /></td>
-  </tr>
-</table>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=DHKun&theme=github&hide_border=true" alt="DHKun's GitHub Stats" /></td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHKun&theme=github&hide_border=true&layout=compact" alt="DHKun's Top Languages" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHKun&theme=github&hide_border=true" alt="DHKun's Contribution Graph" />
+</div>
 
 <!--
 **DHKun/DHKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
